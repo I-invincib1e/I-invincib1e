@@ -1,6 +1,6 @@
 <!-- Neorex GitHub Profile README -->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/I-invincib1e/Svg/refs/heads/master/header-waves.svg" /> 
+  <img  src="https://raw.githubusercontent.com/I-invincib1e/Svg/refs/heads/master/waves/header-waves.svg" /> 
 </p>
 
 
