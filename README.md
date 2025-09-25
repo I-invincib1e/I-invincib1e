@@ -3,6 +3,12 @@
   <img src="https://raw.githubusercontent.com/I-invincib1e/Svg/refs/heads/master/waves/header-waves.svg" width="100%" /> 
 </p>
 
+<!-- Top-right corner metrics -->
+<p align="right" style="font-family:monospace; font-size:0.85em; color:#c0c0c0;">
+  <img src="https://komarev.com/ghpvc/?username=I-invincib1e&color=orange&style=flat-square"> |
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/I-invincib1e/Svg/refs/heads/master/names/gradient-name.svg" />
 </p>
@@ -63,7 +69,6 @@
 </table>
 
 </div>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devrex/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
