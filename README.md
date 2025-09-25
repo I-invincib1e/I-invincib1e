@@ -5,7 +5,7 @@
 
 <!-- Top-right corner metrics -->
 <p align="right" style="font-family:monospace; font-size:0.85em; color:#c0c0c0;">
-  <img src="https://komarev.com/ghpvc/?username=I-invincib1e&color=orange&style=flat-square"> |
+  <img src="https://komarev.com/ghpvc/?username=I-invincib1e&color=orange&style=flat-square">
 </p>
 
 
